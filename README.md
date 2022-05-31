@@ -28,12 +28,4 @@ Items used:
 Assembly:
 --------
   The following connections were made and the coding was done in Arduino’s own IDE (The code is written in another file attached below this pdf). The casing was made and all joins were done on breadboard. The Arduino was temporarily powered by USB power using a power bank. The final project was having a modular form factor cuboid in shape, with two holes at one side for sound sensor input and potentiometer knob and a display at the top. The following images are of the original device in different stages of assembly.    
-
-                                  
-
-
-Venue: Science Fiesta (Annual Science Fest), Don Bosco Liluah.  
-Dated: 3rd October (2019)
-
-Report and exhibit by: Arjun Ghosh (XII C), Tanmay Datta (XII C)
 ---------------------------------------------------------------
